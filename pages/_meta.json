@@ -1,0 +1,13 @@
+{
+  "index": "Introduction",
+  "team": "Causway Dev Team",
+  "technology-used":"technology-used",
+  "phases":"Phases",
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://www.linkedin.com/in/rishi-mondal-5238b2282/",
+    "newWindow": true
+  },
+  "about":"About"
+}
